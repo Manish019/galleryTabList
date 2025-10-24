@@ -18,7 +18,8 @@ Supports local images, image upload with preview, and smooth sliding transitions
 
 ## Demo
 
-![Uploading image.png…]()
+<img width="621" height="596" alt="image" src="https://github.com/user-attachments/assets/079e0a68-ec81-4a69-8e80-f8c9e6f598b3" />
+
   
 *(Add a screenshot or GIF showing the gallery in action)*
 
