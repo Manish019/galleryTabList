@@ -4,7 +4,7 @@ import './tabList.css'
 const Tabs = ({ activeTab, setActiveTab }) => {
   const tabs = ["About Me", "Experiences", "Recommended"];
   return (
-    <div className="flex  p-2 pb-3 overflow-x-auto no-scrollbar bg-black/80 border-b border-slate-700/30 m-3 rounded-2xl text-sm sm:text-base  lg:gap-5 gap-2">
+    <div className="flex  p-2 pb-3 overflow-x-auto no-scrollbar bg-black/80 border-b border-slate-700/30 m-3 rounded-2xl text-[13px] sm:text-[13px]  lg:gap-5 gap-2">
       {tabs.map((tab) => (
         <button
           key={tab}
