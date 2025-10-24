@@ -26,7 +26,8 @@ This project is a **responsive gallery card component** that allows:
 
 *(Add a screenshot or GIF preview here)*  
 For example:  
-![Project Demo](./public/demo.png)
+![Uploading image.png…]()
+
 
 ---
 
@@ -77,17 +78,4 @@ Deployed easily on:
 
 ---
 
-## 🪪 License
-MIT License © 2025 [Your Name]
 
----
-
-## 🌐 Connect
-
-For feedback or collaboration, contact via:
-**Email:** yourname@example.com  
-**GitHub:** [your-username](https://github.com/your-username)
-
----
-
-### ⭐ If you like this project, don't forget to **star** it on GitHub!
