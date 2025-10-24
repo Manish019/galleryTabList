@@ -18,7 +18,8 @@ Supports local images, image upload with preview, and smooth sliding transitions
 
 ## Demo
 
-![Gallery Demo](![alt text](image.png))  
+![Uploading image.png…]()
+  
 *(Add a screenshot or GIF showing the gallery in action)*
 
 ---
