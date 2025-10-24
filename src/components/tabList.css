@@ -1,0 +1,24 @@
+.tabbutton{
+ width: 195 !important;
+height: 49 !important;
+opacity: 1;
+border-radius: 16px;
+padding-top: 10px !important;
+padding-right: 24px;
+padding-bottom: 10px;
+padding-left: 24px;
+
+
+}
+
+.outer-box{
+  box-shadow: 5.67px 5.67px 3.78px 0px #00000066;
+  border: 1px solid rgba(112, 119, 130, 0.5);
+}
+
+.imgadd{
+  background-color: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(112, 119, 130, 0.5);
+  border-radius: 23px;
+}
+
