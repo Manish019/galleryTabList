@@ -1,5 +1,15 @@
 # React + Tailwind CSS Image Gallery 🎨
+# React + Tailwind CSS Image Gallery 🎨
 
+A responsive and interactive image gallery made using **React.js** and **Tailwind CSS**, showcasing smooth transitions, modern styling, and image upload support.  
+Fully built with Vite for fast dev and optimized builds.
+
+---
+
+## 🚀 Live Demo
+
+**Check it out here:**  
+👉 [https://gallery-tab.netlify.app/](https://gallery-tab.netlify.app/)
 A responsive and interactive image gallery made using **React.js** and **Tailwind CSS**, showcasing smooth transitions, modern styling, and image upload support.  
 Fully built with Vite for fast dev and optimized builds.
 
@@ -64,6 +74,21 @@ For example:
 Deployed easily on:
 - **Netlify** → [https://gallery-tab.netlify.app/](https://gallery-tab.netlify.app/)
 - Supports builds from Vite with zero config.
+## 📦 Deployment
+
+Deployed easily on:
+- **Netlify** → [https://gallery-tab.netlify.app/](https://gallery-tab.netlify.app/)
+- Supports builds from Vite with zero config.
+
+---
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create your new branch (`git checkout -b feature-name`)
+3. Commit your changes (`git commit -m 'Add feature'`)
+4. Push (`git push origin feature-name`)
+5. Open a Pull Request 🎉
 
 ---
 
