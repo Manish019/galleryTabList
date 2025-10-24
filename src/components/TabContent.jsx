@@ -25,7 +25,7 @@ function TabContent() {
             <TabList activeTab={activeTab} setActiveTab={setActiveTab} />
 
             <div className="px-6 pb-6">
-              <div className="p-8">
+              <div className="lg:p-8">
                 <div className="mt-4 max-h-48 overflow-y-auto pr-4 custom-scrollbar">
                   <p className="text-slate-300 leading-relaxed whitespace-pre-line">
                     {content[activeTab]}
